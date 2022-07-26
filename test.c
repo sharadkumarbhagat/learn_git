@@ -4,5 +4,5 @@
 void main()
 {
 
-printf("hello sharad\n");
+printf("hello \n");
 }
